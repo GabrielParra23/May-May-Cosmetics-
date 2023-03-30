@@ -4,7 +4,8 @@ Atividade de DevOps
 
 Titulo: May May Cosmetics.
 
-Imagem de Capa: ![Imagem](https://user-images.githubusercontent.com/128940678/228936721-7e19a113-affb-4408-b568-1af97664302b.png)
+Imagem de Capa:  ![image](https://user-images.githubusercontent.com/128940678/228938547-f6fd38b8-0016-4f7e-a9cc-4a9c78116c05.png)
+
 
 Descrição: A May May Cosmetics é uma empresa de cosméticos que ja está a 2 anos no ramo e vai se expandindo rapidamente .
 
